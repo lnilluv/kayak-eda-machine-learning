@@ -3,7 +3,6 @@
 
 End-to-end data product implementation: exploratory analytics, machine-learning inference API, and production-oriented deployment on a VPS.
 
-Video walkthrough: https://youtu.be/QUoh_RfaAc8
 
 ## Executive summary
 
