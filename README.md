@@ -1,10 +1,5 @@
 # Getaround Data Platform
 
-<p align="center">Kayak: plan your trip</p>
-
-<p align="center">
-  <img src="assets/kayak-logo.png" alt="Kayak logo" width="260" />
-</p>
 
 End-to-end data product implementation: exploratory analytics, machine-learning inference API, and production-oriented deployment on a VPS.
 
